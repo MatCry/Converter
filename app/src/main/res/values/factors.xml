@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- weight -->
+    <string name="gr_kilo">0.001</string>
+    <string name="gr_ton">0.000001</string>
+    <string name="gr_ib">0.00220462</string>
+    <string name="gr_carat">5</string>
+    <string name="gr_po">0.00006104</string>
+
+
+    <string name="kilo_gr">1000</string>
+    <string name="kilo_ton">0.001</string>
+    <string name="kilo_ib">2.20462</string>
+    <string name="kilo_carat">5000</string>
+    <string name="kilo_po">0.0610482</string>
+
+    <string name="ton_gr">1000000</string>
+    <string name="ton_kilo">1000</string>
+    <string name="ton_ib">2204.6226</string>
+    <string name="ton_carat">5000000</string>
+    <string name="ton_po">61.0482</string>
+
+    <string name="ib_gr">45.59237</string>
+    <string name="ib_kilo">0.45359</string>
+    <string name="ib_ton">0.0004539</string>
+    <string name="ib_carat">2267.96215</string>
+    <string name="ib_po">0.02769</string>
+
+    <string name="carat_gr">0.2</string>
+    <string name="carat_kilo">0.002</string>
+    <string name="carat_ton">0.0000002</string>
+    <string name="carat_ib">0.00044092</string>
+    <string name="carat_po">0.0000122096</string>
+
+    <string name="po_gr">16381</string>
+    <string name="po_kilo">16.381</string>
+    <string name="po_ton">0.0163804</string>
+    <string name="po_ib">0.00044092</string>
+    <string name="po_carat">0.0000122096</string>
+
+    <!-- temperature -->
+    <string name="celsius_fahrenheit_factor">1.8</string>
+    <string name="celsius_fahrenheit_add">32</string>
+    <string name="celsius_kelvin_add">273.15</string>
+
+    <string name="fahrenheit_kelvin_subtract">459.67</string>
+
+
+    <!-- distance -->
+    <string name="dis_km_m">1000</string>
+    <string name="dis_km_cm">100000</string>
+    <string name="dis_km_miles">0.621371</string>
+    <string name="dis_km_yard">1093.61</string>
+    <string name="dis_km_foot">3280.84</string>
+    <string name="dis_km_inch">39370.1</string>
+
+
+    <string name="dis_m_cm">100</string>
+    <string name="dis_m_miles">0.000621371</string>
+    <string name="dis_m_yard">1.09361</string>
+    <string name="dis_m_foot">3.28084</string>
+    <string name="dis_m_inch">19.3701</string>
+
+    <string name="dis_dm_cm">10</string>
+    <string name="dis_dm_miles">0.0000621371</string>
+    <string name="dis_dm_yard">0.109361</string>
+    <string name="dis_dm_foot">0.328084</string>
+    <string name="dis_dm_inch">1.93701</string>
+
+
+    <string name="dis_cm_miles">0.00000621371</string>
+    <string name="dis_cm_yard">0.0109361</string>
+    <string name="dis_cm_foot">0.0328084</string>
+    <string name="dis_cm_inch">0.193701</string>
+
+
+    <string name="dis_miles_yard">1760</string>
+    <string name="dis_miles_foot">5280</string>
+    <string name="dis_miles_inch">63360</string>
+
+    <string name="dis_yard_foot">3</string>
+    <string name="dis_yard_inch">36</string>
+
+
+    <string name="dis_foot_inch">12</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">The Converter</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="weight_fragment_label">Weight</string>
+    <string name="temperature_fragment_label">Temperature</string>
+
+    <!-- Strings used for TextViews -->
+    <string name="gr_textView_text">gram</string>
+    <string name="kilo_textView_text">kilo</string>
+    <string name="ton_textView_text">ton</string>
+    <string name="ib_textView_text">Ib</string>
+    <string name="carat_textView_text">carat</string>
+    <string name="po_textView_text">pood</string>
+
+
+    <string name="celsius_textView_text">Celsius</string>
+    <string name="fahrenheit_textView_text">Fahrenheit</string>
+    <string name="kelvin_textView_text">Kelvin</string>
+
+
+    <string name="km_distance_textView_text">Kilometre</string>
+    <string name="m_distance_textView_text">Meters</string>
+    <string name="cm_distance_textView_text">Centimeters</string>
+    <string name="miles_distance_textView_text">Miles</string>
+    <string name="yard_distance_textView_text">Yard</string>
+    <string name="foot_distance_textView_text">Foot</string>
+    <string name="inch_distance_textView_text">Inches</string>
+
+
+
+    <!-- Strings used for EditText -->
+
+    <string name="km_distance_editText">km</string>
+    <string name="m_distance_editText">m</string>
+    <string name="cm_distance_editText">cm</string>
+    <string name="miles_distance_editText">mi</string>
+    <string name="yard_distance_editText">yd</string>
+    <string name="foot_distance_editText">ft</string>
+    <string name="inch_distance_editText">in</string>
+
+
+
+    <!--  Strings used for Buttons -->
+    <string name="temperature_button_text">Temperature</string>
+    <string name="weight_button_text">Weight</string>
+    <string name="distance_button_text">Distance</string>
+
+    <!-- Strings used for outputs -->
+
+    <!-- Strings used for content description -->
+    <string name="ic_button_choose_description">Choose</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
